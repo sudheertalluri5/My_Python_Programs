@@ -1,0 +1,85 @@
+** -exponent operator
+// -integer division
+type(var) - gives type of variable
+var = 10  - int
+      10.0-float
+      True-bool
+      "sudheer"-str
+Type conversion : int(any value) float(any value) str(any value) bool(anyvalue)
+-----------------------------------------------------------------------------------
+# -comment until it is present inside quotes
+
+if we have usage of quotes in between then use any of these two
+"doesn't"
+'doesn\'t' -- escape sequence is used
+
+python can support complex numbers also that is why it can be used as a calculator
+
+_ is used to refer to previous output in shell
+
+--------------------------------------------------------------------------------------
+1)print("sudheer\new\python")
+output:
+sudheer
+ew\python
+
+2)print(r"sudheer\new\python")
+output:
+sudheer\new\python
+--------------------------------------------------------------------------------------
+concatenation operators
+
+'sud'+'heer'
+'sud''heer'
+2*'hey'
+2*'hey'+'hey'
+
+literals can be concated to literals but not variables.
+--------------------------------------------------------------------------------------
+strings can be indexed as 
+s="sudheer"
+s[0]='s'
+s[1]='u' .........
+s[0:2]="su"
+s[2:5]="dhe"
+s[2:]="dheer"
+s[:4]=sudh
+
+print(s[8])--error(IndexError: string index out of range)
+but one twist is there
+print(s[8:])-- '' (no error just prints an empty string)
+print(s[4:50])-- 'eer'
+
+print(s[-1])--r
+
+s 0 -6
+u 1 -5
+d 2 -4
+h 3 -3
+e 4 -2
+e 5 -1
+r 6 0
+
+python strings are immutable
+
+s='sudheer'
+s[0]='r' this leads to....
+TypeError: 'str' object does not support item assignment
+same for s[0:2]='er'
+--------------------------------------------------------------------------------------
+string methods
+1) len(string)
+ex: 
+s='sudheer'
+print(len(s)) -7
+
+
+range(int) or range(int,int) creates a sequential list of integers in that range
+range(10) - 0 to 9
+range(4,7) - [4,5,6]
+range(4,8,2) - [4,6] i.e. with a increment of 2 from 4 to less than 8
+
+list(range(4,7)) is considered as list object
+
+
+The call to list is necessary because range by itself creates a range object, and this must be converted to a list if you want to use it as one.

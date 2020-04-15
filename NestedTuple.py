@@ -1,0 +1,5 @@
+NestedTuple=(1,2,(3,4),(5,(6,7)),8)
+print(NestedTuple[1])
+print(NestedTuple[2])
+print(NestedTuple[2][1])
+print(NestedTuple[3][1][1])
