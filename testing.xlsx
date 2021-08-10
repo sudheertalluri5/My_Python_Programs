@@ -1,0 +1,125 @@
+Type	Name	Tasks	Role	Learning Opportunities	Achievements/Call outs			
+Projects	EPV Password reset Automation	"Creating Shell Scripts
+Creating Control-m jobs
+Environment Readiness for automation
+Deligence to move the solution to production"	Developer - Shell Scripting	"Shell Scripting
+Control-m
+SNOW
+EPV
+UNIX"	"Closed an ITRC break
+Delivered on time inspite of suprises from environment"			
+	Cognos DCM	"Load balancer
+Cognos Configuration Automation
+Cognos-GOS Connectivity Implementation
+Miniconda Installation Automation
+Python Setup Automation
+Python package installation Automation
+Cognos UTC Timezone Analysis
+Comparision of NAS vs SAN
+Installations of clients and drivers
+Setup of new dispatchers of pilot
+Cognos Functional Testing for OS upgrade"	"Developer - Python
+Analyst
+Platform Engineer
+Tester"	"Better Understanding of Cognos as a reporting tool
+Robotic Process Automation
+Gaia Oracle Services
+Microservices
+AIM GFS
+Jules pipeline
+Ansible
+Unit testing
+Performance & Functional Testing"	"Involvement in all the activities related to this project
+Meeting hard deadlines especially for the heart of DCM - cogstartup.xml automation
+Working with code developed by others
+Timely Delivery
+Automation assistance whereever needed"			
+	Cognos Datasource maintenance automation	"POCs of all the APIs used, includes onboarding, development and testing
+Schema Creation Automation in Gaia MySQL
+GAP Database creation
+Django Project for REST API creation
+"	"Lead Developer - Python
+Developer - Cloud (GAP)"	"GAP
+HTML, CSS and JS
+React JS
+Python Django
+Robotic Process Automation"	"Successful POCs
+Leading the development activities
+Onboarding Deligence
+More to come on this front"			
+	Cognos Instance Migration	AWM Scheduling migration to Cognos	Lead Developer - Python	"Autosys
+AAAS API
+Logging"	Successful Development model for migration to happen			
+	Other Cognos Tasks	"Pull Windows Domain from Phone Book API
+Bringing up the lost sandbox database disk"	Lead Developer - Python	"Phonebook API
+Unit testing"	Reducing manual work by automating the domain retrieval			
+	Alteryx Julia	"Takeover the Julia
+Help Alteryx team until ownership is transferred"	Developer Assistance - Python	"Desktop Based Automation overview
+Better Understanding of Alteryx worflows"	"Successful takeover
+Ownership of component SEAL
+Provided KTs on the same to new team members"			
+	Alteryx Platform Engineering	"Driver Installations
+Splunk Installation
+UTC Timezone setup"	Platform Engineer	"Windows Server
+Networking and Co-ordination"	Simplifying the installations by successful installations in lower environments			
+	iGrafx Password automation	Python scripts development/assitance	Developer - Python	iGrafx				
+Training	Python Training	"Training
+Assistance
+Scheduling
+Recording"	Trainer - Python	"Teaching
+Adobe
+Networking and co-ordination"	"Succesful run of bootcamp in India team
+Ongoing Python training in A&R"			
+Hackathons	Code for Good	Assisting the participants with techincal doubts	SME - Python (Django)	"Networking
+Troubleshooting and debugging"	Helping students resolve their issues			
+	PET	Developing a classifcation model	Lead Developer - AI/ML	"Networking
+Application of AI/ML in real world usecases"	Achieved an accuracy above 90% for the model			
+Ignite	Automation Action Tracker	"Classifying the Mails as Actionable or not
+Finding the Action in the mail"	Lead Developer - AI/ML	"Networking
+Application of AI/ML in real world usecases"	Improved model accuracy from 70% to 99%			
+	Skills Automation	Creating Django REST APIs for ETT project	Lead Developer - Python (Django)	"Django
+Networking"	Created Skills and Roles Edit/Delete REST API End points			
+	Account Master Automation		Lead Developer - Python					
+Non BAU 	GT Reuse							
+	SEP Data Consolidation	"Designing the Confluence
+Content Writing"	"Designer
+Content Writer"	"Designing
+Confluence
+Content Writing"	Created consolidated data and published the confluence which can be helpful for all the new SEP batches going forward			
+	Engineering Panel for SEP 2021 batch	Speaker in SEP 2021 Panel Session	Speaker	"Speaking
+Networking"	Providing ideas for the speaker session and handling the session without smoothly			
+	SEP 2020 batch co-ordinator for Hyderabad	Assistance to SEP 2020 Batch	Co-ordinator	Networking	Scheduling connects for every 6 weeks and understanding what is going on across the cohort			
+								
+Learning Curve	"Advance Python
+Shell Scripting
+UNIX and Windows Servers
+Jules
+AIM GFS
+GOS
+GAP
+SNOW
+EPV
+Soft Skills
+Robotic Process Automation
+Control-m
+Autosys
+HTML, CSS and JS
+React JS
+Unit testing
+Logging
+Alteryx
+iGrafx
+Teaching
+Desktop Based Automation
+Web Based Automation etc."							
+								
+Other Metrics	No of JIRAs resolved	58	assignee = currentUser() and status != New					
+	No of training attended	14						
+	No of MS created	6						
+	No of Incidents raised	12						
+	No of Changes created	11						
+	No of ITPAMs created	5						
+	No of mycompute requests created	2						
+	No of RSAMs raised by me	33						
+	No of RSAMs raised for me	82						
+	No of EURCs raised	21						
